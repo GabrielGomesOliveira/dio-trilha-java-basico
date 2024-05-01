@@ -1,7 +1,7 @@
 public class TipoVariaveis {
     public static void main(String[] args) throws Exception {
-       //Tipos primitivos
-       //Estudando a classe string que representa texto na aplicação 
+       //Tipos primitivos -
+       //Estudando a classe string que representa texto na aplicação -
 
        String meuNome = "Gabriel Gomes";
 
